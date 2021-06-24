@@ -10,6 +10,8 @@ Using this tool you can easily Download YouTube, Facebook, Instagram videos and 
 ## Usage:
 ### First Do Setup:
 ```bash
+pkg update && pkg upgrade
+
 pkg install wget
 
 apt install wget -y
