@@ -12,7 +12,7 @@ Using this tool you can easily Download YouTube, Facebook, Instagram videos and 
 ```bash
 apt install wget -y
 
-wget https://github.com/ImBhashitha/YTDL/raw/master/setup.sh
+wget https://github.com/ImBhashitha/YTDL/raw/main/setup.sh
 
 chmod +x setup.sh
 
