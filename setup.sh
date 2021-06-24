@@ -17,6 +17,6 @@ printf "\n Please Wait ... \n"
 mkdir ~/storage/shared/YouTube-DL
 mkdir -p ~/.config/youtube-dl
 mkdir ~/bin
-wget https://github.com/ImBhashitha/YTDL/raw/master/youtube-dl -O ~/bin/termux-url-opener
+wget https://github.com/ImBhashitha/YTDL/raw//youtube-dl -O ~/bin/termux-url-opener
 dos2unix ~/bin/termux-url-opener
 printf "\n Setup Complete, Enjoy! \n\n"
